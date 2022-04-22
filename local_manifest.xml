@@ -2,10 +2,12 @@
 <manifest>
 
  <!-- Trees -->
+ 
  <project path="device/xiaomi/miatoll" name="SKORPION29/android_device_xiaomi_miatoll" remote="github" revision="twelve" />
  <project path="device/xiaomi/sm6250-common" name="SKORPION29/android_device_xiaomi_sm6250-common" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/miatoll" name="sairam1411/vendor_xiaomi_miatoll" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/sm6250-common" name="sairam1411/vendor_xiaomi_sm6250-common" remote="github" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="sairam1411/kernel_xiaomi_sm6250" remote="github" revision="twelve-kcal" />
+ <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-19.1" />
  
 </manifest>
