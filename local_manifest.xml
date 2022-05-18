@@ -4,7 +4,7 @@
  <!-- Remove -->
  
  <remove-project name="frameworks_base" />
- <remove project name="packages_apps_BlazeHouse" />
+ <remove-project name="packages_apps_BlazeHouse" />
  
  <!-- Trees -->
  
