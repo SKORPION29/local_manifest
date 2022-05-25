@@ -10,6 +10,7 @@
  <remove-project name="frameworks_base" />
  <remove-project name="packages_apps_BlazeHouse" />
  <remove-project name="packages_apps_Settings" />
+ <remove-project name="frameworks_av" />
  
  <!-- Trees -->
  
@@ -21,6 +22,7 @@
  <project path="frameworks/base" name="SKORPION29/blaze-frameworks_base" remote="github" revision="12.1" />
  <project path="packages/apps/BlazeHouse" name="SKORPION29/packages_apps_BlazeHouse" remote="github" revision="12.1" />
  <project path="packages/apps/Settings" name="SKORPION29/packages_apps_Settings" remote="github" revision="12.1" />
+ <project path="frameworks/av" name="SKORPION29/blaze-frameworks_av" remote="github" revision="12.1" />
  
  <!-- Proton -->
  <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="kdrag0n" revision="master" depth="1" />
