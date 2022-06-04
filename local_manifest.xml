@@ -11,6 +11,7 @@
  <!-- remove-project name="packages_apps_BlazeHouse" -->
  <!-- remove-project name="packages_apps_Settings" -->
  <!-- remove-project name="frameworks_native" -->
+ <remove-project name="vendor_blaze" />
  
  <!-- Trees -->
  
@@ -19,6 +20,8 @@
  <project path="vendor/xiaomi/miatoll" name="sairam1411/vendor_xiaomi_miatoll" remote="github" revision="twelve" />
  <project path="vendor/xiaomi/sm6250-common" name="sairam1411/vendor_xiaomi_sm6250-common" remote="github" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="sairam1411/kernel_xiaomi_sm6250" remote="github" revision="twelve-kcal" />
+ 
+ <project path="vendor/blaze" name="SKORPION29/vendor_blaze" remote="github" revision="12.1" />
  
  <!-- Proton -->
  <!-- project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="kdrag0n" revision="master" depth="1" -->
