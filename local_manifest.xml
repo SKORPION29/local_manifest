@@ -11,7 +11,7 @@
  <!-- remove-project name="packages_apps_BlazeHouse" -->
  <!-- remove-project name="packages_apps_Settings" -->
  <!-- remove-project name="frameworks_native" -->
- <-- <remove-project name="android_packages_apps_Nfc" /> -->
+ <!-- <remove-project name="android_packages_apps_Nfc" /> -->
  
  <!-- Trees -->
  
