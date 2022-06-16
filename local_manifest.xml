@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <remote name="github" fetch="https://github.com/" />
+ <!-- remote name="github" fetch="https://github.com/" -->
  <!-- remote name="lab" fetch="https://gitlab.com/" -->
  <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
+ <remote name="SKORPION" fetch="https://github.com/SKORPION29/" />
+ <remote name="sairam" fetch="https://github.com/sairam1411/" />
+ <remote name="sonal" fetch="https://github.com/SonalSingh18/" />
  
  <!-- Trees -->
  
- <project path="device/xiaomi/miatoll" name="SKORPION29/android_device_xiaomi_miatoll" remote="github" revision="eleven" />
- <project path="device/xiaomi/sm6250-common" name="SKORPION29/android_device_xiaomi_sm6250-common" remote="github" revision="eleven" />
- <project path="vendor/xiaomi/miatoll" name="sairam1411/vendor_xiaomi_miatoll" remote="github" revision="eleven" />
- <project path="vendor/xiaomi/sm6250-common" name="sairam1411/vendor_xiaomi_sm6250-common" remote="github" revision="eleven" />
- <project path="kernel/xiaomi/sm6250" name="sairam1411/kernel_xiaomi_sm6250" remote="github" revision="twelve-kcal" />
- <project path="vendor/xiaomi/miuicamera" name="SonalSingh18/vendor_xiaomi_miuicamera" remote="github" revision="master" />
+ <project path="device/xiaomi/miatoll" name="android_device_xiaomi_miatoll" remote="SKORPION" revision="eleven" />
+ <project path="device/xiaomi/sm6250-common" name="android_device_xiaomi_sm6250-common" remote="SKORPION" revision="eleven" />
+ <project path="vendor/xiaomi/miatoll" name="vendor_xiaomi_miatoll" remote="sairam" revision="eleven" />
+ <project path="vendor/xiaomi/sm6250-common" name="vendor_xiaomi_sm6250-common" remote="sairam" revision="eleven" />
+ <project path="kernel/xiaomi/sm6250" name="kernel_xiaomi_sm6250" remote="sairam" revision="twelve-kcal" />
+ <project path="vendor/xiaomi/miuicamera" name="vendor_xiaomi_miuicamera" remote="sonal" revision="master" />
  
  <!-- Proton -->
  <!-- project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="kdrag0n" revision="master" depth="1" -->
