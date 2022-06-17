@@ -5,6 +5,9 @@
  <!-- remote name="lab" fetch="https://gitlab.com/" -->
  <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
  
+ <remove-project name="LineageOS/android_hardware_oplus" />
+ <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-19.1" />
+ 
  <!-- Trees -->
  
  <project path="device/xiaomi/miatoll" name="SKORPION29/android_device_xiaomi_miatoll" remote="github" revision="voltage" />
