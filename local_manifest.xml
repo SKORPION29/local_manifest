@@ -4,9 +4,10 @@
  <remote name="github" fetch="https://github.com/" />
  <!-- remote name="lab" fetch="https://gitlab.com/" -->
  <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
+ <remote name="lineage" fetch="https://github.com/LineageOS/" />
  
  <remove-project name="LineageOS/android_hardware_oplus" />
- <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-19.1" />
+ <project path="hardware/oplus" name="android_hardware_oplus" remote="lineage" revision="lineage-19.1" />
  
  <!-- Trees -->
  
