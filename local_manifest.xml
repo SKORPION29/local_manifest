@@ -9,6 +9,9 @@
  <remove-project name="LineageOS/android_hardware_oplus" />
  <project path="hardware/oplus" name="android_hardware_oplus" remote="lineage" revision="lineage-19.1" />
  
+ <remove-project name="vendor_voltage" />
+ <project path="vendor/voltage" name="VoltageOS/vendor_voltage" remote="github" revision="12l" />
+ 
  <!-- Trees -->
  
  <project path="device/xiaomi/miatoll" name="SKORPION29/android_device_xiaomi_miatoll" remote="github" revision="voltage" />
