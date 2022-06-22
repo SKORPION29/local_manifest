@@ -6,11 +6,11 @@
  <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
  <remote name="lineage" fetch="https://github.com/LineageOS/" />
  
- <remove-project name="LineageOS/android_hardware_oplus" />
+ <!-- remove-project name="LineageOS/android_hardware_oplus" />
  <project path="hardware/oplus" name="android_hardware_oplus" remote="lineage" revision="lineage-19.1" />
  
  <remove-project name="vendor_voltage" />
- <project path="vendor/voltage" name="VoltageOS/vendor_voltage" remote="github" revision="12l" />
+ <project path="vendor/voltage" name="VoltageOS/vendor_voltage" remote="github" revision="12l" /> -->
  
  <!-- Trees -->
  
