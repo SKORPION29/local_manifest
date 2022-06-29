@@ -24,7 +24,7 @@
  <project path="vendor/xiaomi/sm6250-common" name="sairam1411/vendor_xiaomi_sm6250-common" remote="github" revision="twelve" />
  <project path="kernel/xiaomi/sm6250" name="sairam1411/kernel_xiaomi_sm6250" remote="github" revision="twelve-kcal" />
  <project path="bionic" name="SKORPION29/bionic" remote="github" revision="12.1" />
- <project path="frameworks/base" name="SKORPION29/blaze-frameworks_base" remote="github" revision="12.1" />
+ <project path="frameworks/base" name="SKORPION29/blaze-frameworks_base" remote="github" revision="test" />
  
  <!-- Proton -->
  <!-- project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="kdrag0n" revision="master" depth="1" -->
