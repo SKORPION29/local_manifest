@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <remote name="github" fetch="https://github.com/" />
+ <!-- remote name="github" fetch="https://github.com/" /> -->
  <!-- remote name="lab" fetch="https://gitlab.com/" -->
  <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
  <!-- <remote name="lineage" fetch="https://github.com/LineageOS/" /> -->
