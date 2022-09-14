@@ -3,7 +3,7 @@
 
  <!-- remote name="github" fetch="https://github.com/" /> -->
  <!-- remote name="lab" fetch="https://gitlab.com/" -->
- <!-- remote name="kdrag0n" fetch="https://github.com/kdrag0n" -->
+ <remote name="kdrag0n" fetch="https://github.com/kdrag0n" />
  <!-- <remote name="lineage" fetch="https://github.com/LineageOS/" /> -->
  
  <!-- remove-project name="LineageOS/android_hardware_oplus" />
